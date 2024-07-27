@@ -58,3 +58,8 @@
 </div>
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/malumendonca998/malumendonca998/output/snake.svg" alt="Snake animation" />
+
+###
