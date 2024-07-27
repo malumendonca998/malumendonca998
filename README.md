@@ -1,4 +1,4 @@
-<img align="right" height="172" src="https://ideogram.ai/assets/image/lossless/response/M1bZac4TSpyvou8Q-wXHeQ"  />
+<img align="right" height="172" src="https://ideogram.ai/assets/image/lossless/response/ZtR542sISvSfiZ1BP7m2Rg"  />
 
 ###
 
