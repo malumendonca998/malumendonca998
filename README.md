@@ -1,4 +1,6 @@
-<img src="https://ideogram.ai/assets/image/lossless/response/ZtR542sISvSfiZ1BP7m2Rg" alt="Descrição da imagem"  />
+<a href="https://ideogram.ai/assets/image/lossless/response/ZtR542sISvSfiZ1BP7m2Rg">
+  <img src="https://ideogram.ai/assets/image/lossless/response/ZtR542sISvSfiZ1BP7m2Rg" alt="Descrição da imagem">
+</a>
 <img align="right" height="172" src="https://ideogram.ai/assets/image/lossless/response/ZtR542sISvSfiZ1BP7m2Rg"  />
 ###
 <img src="https://github.com/jair-redigolo-dev/jair-redigolo-dev/blob/output/github-contribution-grid-snake.gif">
