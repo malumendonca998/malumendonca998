@@ -62,5 +62,8 @@
 
 <div align="left">
 </div>
+🌐 Vamos nos conectar
+[LinkedIn:](https://www.linkedin.com/in/maria-luiza-mendon%C3%A7a-7839a71ba/)
+Email: Luizqmorais94@gmail.com
 
 
