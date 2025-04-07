@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Maria Luiza and i'm 20 years <br><br>- 👨‍🎓 i´m an information security student<br>- 🌱 I’m currently learning python<br>- 📫 How to reach me: luizqmorais94@gmail.com</p>
+<p align="left">I'm Maria Luiza and i'm 20 years <br><br>- 👨‍🎓Futura Especialista em Segurança da Informação <br>- 🌱 Cybersecurity Enthusiastn<br>- 📫 How to reach me: luizqmorais94@gmail.com</p>
 
 ###
 
